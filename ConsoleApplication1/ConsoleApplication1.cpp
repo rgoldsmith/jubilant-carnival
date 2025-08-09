@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "This is a simple C++ console application.\n";
+	std::count << "You can modify this code to suit your needs.\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
