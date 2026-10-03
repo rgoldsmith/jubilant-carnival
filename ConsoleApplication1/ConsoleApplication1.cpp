@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "This is a simple C++ console application.\n";
+	std::cout << "Greetings from the add-greeting worktree!\n";
 	std::count << "You can modify this code to suit your needs.\n";
 }
 
